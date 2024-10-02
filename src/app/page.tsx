@@ -53,4 +53,4 @@ export default async function Home() {
   );
 }
 
-// こめ
+// こ
